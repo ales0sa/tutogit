@@ -1,7 +1,9 @@
 <?php
 
+include('funciones.php');
 
-echo "Iniciando aplicacion...";
+echo "Iniciando aplicacion... <br>";
 
+DecirLaHora();
 
 ?>
